@@ -52,4 +52,4 @@ Your [open exchange rates](https://docs.openexchangerates.org/) app id from [her
 > REST API гифок - https://developers.giphy.com/docs/api#quick-start-guide   
 > Must Have
 > Сервис на Spring Boot 2 + Java / Kotlin
-> Запросы приходят на HTTP endpoint, туда передается"
+> Запросы приходят на HTTP endpoint, туда передается
