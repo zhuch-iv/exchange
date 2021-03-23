@@ -1,0 +1,8 @@
+fetch:
+  strategy: ${FETCH_STRATEGY:webflux}
+
+logging:
+  level:
+    org:
+      zhuch:
+        exchange: INFO

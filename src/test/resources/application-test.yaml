@@ -1,0 +1,14 @@
+spring:
+  main:
+    lazy-initialization: true
+
+fetch:
+  strategy: webflux
+
+giphy:
+  api-key: test
+  url: http://localhost:9090
+
+open-exchange-rates:
+  api-key: test
+  url: http://localhost:9090

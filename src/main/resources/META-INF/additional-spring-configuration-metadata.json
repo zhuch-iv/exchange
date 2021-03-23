@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "fetch.strategy",
+      "type": "java.lang.String",
+      "description": "Fetch strategy."
+    },
+    {
+      "name": "giphy.api-key",
+      "type": "java.lang.String",
+      "description": "Giphy api key."
+    },
+    {
+      "name": "giphy.url",
+      "type": "java.lang.String",
+      "description": "Giphy url."
+    },
+    {
+      "name": "open-exchange-rates.api-key",
+      "type": "java.lang.String",
+      "description": "Open exchange api key."
+    },
+    {
+      "name": "open-exchange-rates.url",
+      "type": "java.lang.String",
+      "description": "Open exchange url."
+    }
+  ]
+}

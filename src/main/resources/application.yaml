@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: exchange
+
+fetch:
+  strategy: ${FETCH_STRATEGY:webflux}
+
+giphy:
+  api-key: ${GIPHY_API_KEY:NJSYWYxaPILohlmI50KtKMTojWKcBNfu}
+  url: https://api.giphy.com/v1/gifs
+
+open-exchange-rates:
+  api-key: ${OER_API_KEY:a07f4886075c4e2b834d3b6e98070b25}
+  url: https://openexchangerates.org/api
+
+logging:
+  level:
+    org:
+      zhuch:
+        exchange: WARN
