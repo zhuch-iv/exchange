@@ -1,11 +1,11 @@
 ### Exchange app
 
-[Open api spec](https://github.com/zhuch/exchange/blob/master/src/main/resources/openapi.yaml)
+[Open api spec](https://github.com/zhuch-iv/exchange/blob/master/src/main/resources/openapi.yaml)
 
 #### How to run project
 
 Clone repo:
-`git clone git@github.com:zhuch/exchange.git`
+`git@github.com:zhuch-iv/exchange.git`
 
 Enter to project directory:
 `cd ./exchange`
